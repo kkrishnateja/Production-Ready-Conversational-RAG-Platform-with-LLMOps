@@ -1,0 +1,13 @@
+langchain
+langchain-astradb
+langchain-huggingface
+langchain-groq
+langchain-community
+langchain-classic
+datasets
+pypdf
+python-dotenv
+pandas
+flask
+markdown
+prometheus_client
